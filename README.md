@@ -1,5 +1,5 @@
 # Internship-kvstharani
-29th March - Solved some Python programs given by my mentor to solve, which involve Armstrong numbers, prime numbers, factorial of a number, fibonacci series.
+29th Feb - Solved some Python programs given by my mentor to solve, which involve Armstrong numbers, prime numbers, factorial of a number, fibonacci series.
 
 7th March - Solved programs on python built-in data structures which  involve :-
             # write a python program to flatten tuple of list to tuple
