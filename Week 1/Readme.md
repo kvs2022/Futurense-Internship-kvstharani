@@ -1,4 +1,4 @@
-<h1> Week 1 of Internship </h1>
+<h1> Week 1  </h1>
 <p> Solved some basic python programs which involve 
   <ol>
     <li> Python program to add two numbers</li>
