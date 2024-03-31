@@ -7,7 +7,7 @@ This repository delves into the captivating world of Netflix viewership patterns
 Imagine a treasure trove filled with information about what millions watch on Netflix.  The "netflix_titles.csv" dataset (or a similar publicly available dataset) serves as our map, providing details like:
 
 <ol>
-<li></li><b>Show & Movie Titles:</b> Dive into the captivating world of Netflix content, exploring the vast library of titles available to viewers.</li>
+<li><b>Show & Movie Titles:</b> Dive into the captivating world of Netflix content, exploring the vast library of titles available to viewers.</li>
 <li><b> Release Years: </b>Uncover trends in content release patterns and how user preferences might evolve over time.</li>
 <li><b>Genres & Subgenres:</b> Explore the diverse landscape of genres offered by Netflix, from heart-pounding thrillers to heartwarming comedies.</li>
 <li><b>Descriptions:</b> Text analysis of show and movie descriptions can reveal hidden themes and keywords that resonate with viewers.</li>
